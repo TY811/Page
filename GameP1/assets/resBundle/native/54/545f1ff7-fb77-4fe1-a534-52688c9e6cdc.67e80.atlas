@@ -1,0 +1,20 @@
+
+paotai_jian.png
+size: 106,100
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jian
+  rotate: true
+  xy: 2, 2
+  size: 21, 94
+  orig: 21, 94
+  offset: 0, 0
+  index: -1
+jianta
+  rotate: false
+  xy: 2, 25
+  size: 102, 73
+  orig: 102, 73
+  offset: 0, 0
+  index: -1

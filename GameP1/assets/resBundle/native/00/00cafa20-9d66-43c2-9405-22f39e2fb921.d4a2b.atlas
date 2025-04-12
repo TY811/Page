@@ -1,0 +1,48 @@
+
+gongji.png
+size: 381,205
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao0010001
+  rotate: false
+  xy: 276, 14
+  size: 101, 97
+  orig: 101, 97
+  offset: 0, 0
+  index: -1
+bao0010002
+  rotate: false
+  xy: 276, 113
+  size: 103, 90
+  orig: 103, 90
+  offset: 0, 0
+  index: -1
+energy_13_00009
+  rotate: false
+  xy: 76, 53
+  size: 77, 150
+  orig: 77, 150
+  offset: 0, 0
+  index: -1
+energy_13_00010
+  rotate: false
+  xy: 155, 63
+  size: 87, 140
+  orig: 87, 140
+  offset: 0, 0
+  index: -1
+energy_13_00011
+  rotate: false
+  xy: 2, 44
+  size: 72, 159
+  orig: 72, 159
+  offset: 0, 0
+  index: -1
+energy_13_00012
+  rotate: true
+  xy: 155, 2
+  size: 59, 119
+  orig: 59, 119
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,124 @@
+
+texiao.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qiu1
+  rotate: false
+  xy: 1658, 350
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+qiu2
+  rotate: false
+  xy: 2, 2
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+texiao0001
+  rotate: true
+  xy: 2, 447
+  size: 550, 400
+  orig: 550, 400
+  offset: 0, 0
+  index: -1
+texiao0002
+  rotate: false
+  xy: 2, 45
+  size: 550, 400
+  orig: 550, 400
+  offset: 0, 0
+  index: -1
+texiao0003
+  rotate: true
+  xy: 404, 447
+  size: 550, 400
+  orig: 550, 400
+  offset: 0, 0
+  index: -1
+texiao0004
+  rotate: false
+  xy: 554, 45
+  size: 550, 400
+  orig: 550, 400
+  offset: 0, 0
+  index: -1
+texiao0005
+  rotate: true
+  xy: 806, 447
+  size: 550, 400
+  orig: 550, 400
+  offset: 0, 0
+  index: -1
+texiao0006
+  rotate: false
+  xy: 1106, 45
+  size: 550, 400
+  orig: 550, 400
+  offset: 0, 0
+  index: -1
+texiao0007
+  rotate: true
+  xy: 1208, 447
+  size: 550, 400
+  orig: 550, 400
+  offset: 0, 0
+  index: -1
+texiao0008
+  rotate: true
+  xy: 1610, 447
+  size: 550, 400
+  orig: 550, 400
+  offset: 0, 0
+  index: -1
+
+texiao2.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+texiao0009
+  rotate: false
+  xy: 2, 404
+  size: 550, 400
+  orig: 550, 400
+  offset: 0, 0
+  index: -1
+texiao0010
+  rotate: false
+  xy: 2, 2
+  size: 550, 400
+  orig: 550, 400
+  offset: 0, 0
+  index: -1
+texiao0011
+  rotate: false
+  xy: 554, 404
+  size: 550, 400
+  orig: 550, 400
+  offset: 0, 0
+  index: -1
+texiao0012
+  rotate: false
+  xy: 554, 2
+  size: 550, 400
+  orig: 550, 400
+  offset: 0, 0
+  index: -1
+texiao0013
+  rotate: false
+  xy: 1106, 404
+  size: 550, 400
+  orig: 550, 400
+  offset: 0, 0
+  index: -1
+texiao0014
+  rotate: false
+  xy: 1106, 2
+  size: 550, 400
+  orig: 550, 400
+  offset: 0, 0
+  index: -1

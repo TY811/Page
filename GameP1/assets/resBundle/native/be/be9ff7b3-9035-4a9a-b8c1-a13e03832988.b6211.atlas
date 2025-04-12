@@ -1,0 +1,83 @@
+
+jinyong.png
+size: 236,90
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 87, 5
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+fengyin
+  rotate: false
+  xy: 172, 48
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+fengyinfuzhou
+  rotate: false
+  xy: 2, 3
+  size: 83, 85
+  orig: 83, 85
+  offset: 0, 0
+  index: -1
+heidian1
+  rotate: false
+  xy: 195, 21
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+heidian2
+  rotate: false
+  xy: 195, 34
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+heidian3
+  rotate: false
+  xy: 195, 8
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+heidian4
+  rotate: false
+  xy: 209, 32
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+rit4
+  rotate: false
+  xy: 172, 25
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+tie1
+  rotate: false
+  xy: 213, 67
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+tie2
+  rotate: false
+  xy: 172, 2
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+tie3
+  rotate: true
+  xy: 213, 45
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1

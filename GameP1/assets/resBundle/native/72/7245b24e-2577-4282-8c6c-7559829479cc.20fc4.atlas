@@ -1,0 +1,27 @@
+
+aixin.png
+size: 120,60
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aixin
+  rotate: true
+  xy: 2, 2
+  size: 56, 49
+  orig: 56, 49
+  offset: 0, 0
+  index: -1
+xinsui1
+  rotate: false
+  xy: 53, 9
+  size: 32, 49
+  orig: 32, 49
+  offset: 0, 0
+  index: -1
+xinsui2
+  rotate: false
+  xy: 87, 9
+  size: 31, 49
+  orig: 31, 49
+  offset: 0, 0
+  index: -1

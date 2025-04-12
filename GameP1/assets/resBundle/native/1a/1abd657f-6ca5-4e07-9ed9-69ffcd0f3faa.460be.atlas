@@ -1,0 +1,55 @@
+
+shuihua.png
+size: 157,46
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+paopao1
+  rotate: false
+  xy: 2, 2
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+paopao2
+  rotate: false
+  xy: 120, 25
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+paopao3
+  rotate: false
+  xy: 84, 10
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+shuidi1
+  rotate: false
+  xy: 17, 6
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+shuidi2
+  rotate: false
+  xy: 120, 8
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+shuidi3
+  rotate: true
+  xy: 141, 25
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+shuidi4
+  rotate: false
+  xy: 2, 17
+  size: 80, 27
+  orig: 80, 27
+  offset: 0, 0
+  index: -1

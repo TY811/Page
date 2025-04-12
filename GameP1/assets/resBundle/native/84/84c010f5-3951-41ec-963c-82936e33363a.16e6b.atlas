@@ -1,0 +1,20 @@
+
+hetun.png
+size: 160,115
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hetun1
+  rotate: true
+  xy: 91, 2
+  size: 111, 67
+  orig: 111, 67
+  offset: 0, 0
+  index: -1
+hetun2
+  rotate: true
+  xy: 2, 5
+  size: 108, 87
+  orig: 108, 87
+  offset: 0, 0
+  index: -1

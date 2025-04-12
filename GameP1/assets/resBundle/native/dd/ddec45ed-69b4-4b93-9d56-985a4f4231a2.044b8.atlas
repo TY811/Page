@@ -1,0 +1,27 @@
+
+muban.png
+size: 551,103
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dingzi1
+  rotate: false
+  xy: 489, 41
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+dingzi2
+  rotate: false
+  xy: 489, 41
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+muban
+  rotate: false
+  xy: 2, 2
+  size: 485, 99
+  orig: 485, 99
+  offset: 0, 0
+  index: -1

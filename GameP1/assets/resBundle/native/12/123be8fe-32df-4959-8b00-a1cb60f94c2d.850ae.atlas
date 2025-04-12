@@ -1,0 +1,27 @@
+
+baiyutu_shifa.png
+size: 1444,617
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tuguang
+  rotate: true
+  xy: 2, 2
+  size: 613, 649
+  orig: 613, 649
+  offset: 0, 0
+  index: -1
+tushen
+  rotate: true
+  xy: 1126, 129
+  size: 486, 316
+  orig: 486, 316
+  offset: 0, 0
+  index: -1
+tutou
+  rotate: true
+  xy: 653, 133
+  size: 482, 471
+  orig: 482, 471
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+xiake.png
+size: 424,205
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daiji
+  rotate: false
+  xy: 2, 56
+  size: 147, 147
+  orig: 147, 147
+  offset: 0, 0
+  index: -1
+dou1
+  rotate: false
+  xy: 112, 19
+  size: 15, 35
+  orig: 15, 35
+  offset: 0, 0
+  index: -1
+dou2
+  rotate: false
+  xy: 93, 9
+  size: 17, 45
+  orig: 17, 45
+  offset: 0, 0
+  index: -1
+han1
+  rotate: false
+  xy: 112, 9
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+han2
+  rotate: false
+  xy: 122, 8
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+han3
+  rotate: true
+  xy: 2, 2
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+shengliren
+  rotate: false
+  xy: 357, 35
+  size: 65, 168
+  orig: 65, 168
+  offset: 0, 0
+  index: -1
+shenglitoufa
+  rotate: false
+  xy: 2, 9
+  size: 89, 45
+  orig: 89, 45
+  offset: 0, 0
+  index: -1
+shengliyoushou
+  rotate: false
+  xy: 209, 3
+  size: 55, 59
+  orig: 55, 59
+  offset: 0, 0
+  index: -1
+shenglizuoshou
+  rotate: false
+  xy: 151, 3
+  size: 56, 59
+  orig: 56, 59
+  offset: 0, 0
+  index: -1
+si
+  rotate: true
+  xy: 151, 64
+  size: 139, 111
+  orig: 139, 111
+  offset: 0, 0
+  index: -1
+siguihun
+  rotate: false
+  xy: 266, 39
+  size: 89, 164
+  orig: 89, 164
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+yanhua.png
+size: 749,136
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yh1
+  rotate: false
+  xy: 716, 20
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+yh13
+  rotate: false
+  xy: 369, 46
+  size: 192, 43
+  orig: 192, 43
+  offset: 0, 0
+  index: -1
+yh14
+  rotate: false
+  xy: 369, 91
+  size: 199, 43
+  orig: 199, 43
+  offset: 0, 0
+  index: -1
+yh15
+  rotate: false
+  xy: 2, 7
+  size: 269, 127
+  orig: 269, 127
+  offset: 0, 0
+  index: -1
+yh16
+  rotate: true
+  xy: 273, 10
+  size: 124, 94
+  orig: 124, 94
+  offset: 0, 0
+  index: -1
+yh2
+  rotate: true
+  xy: 682, 2
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+yh4
+  rotate: false
+  xy: 642, 83
+  size: 99, 51
+  orig: 99, 51
+  offset: 0, 0
+  index: -1
+yh5
+  rotate: false
+  xy: 682, 50
+  size: 65, 31
+  orig: 65, 31
+  offset: 0, 0
+  index: -1
+yh7
+  rotate: false
+  xy: 570, 30
+  size: 70, 104
+  orig: 70, 104
+  offset: 0, 0
+  index: -1
+yh9
+  rotate: false
+  xy: 642, 23
+  size: 38, 58
+  orig: 38, 58
+  offset: 0, 0
+  index: -1
+yn17
+  rotate: false
+  xy: 369, 2
+  size: 183, 42
+  orig: 183, 42
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+paotai_jiguang.png
+size: 207,86
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiguang1
+  rotate: false
+  xy: 120, 2
+  size: 85, 82
+  orig: 85, 82
+  offset: 0, 0
+  index: -1
+jiguangpao
+  rotate: true
+  xy: 2, 2
+  size: 82, 116
+  orig: 82, 116
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+shanzhu.png
+size: 1562,623
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sui1_shanzhu
+  rotate: false
+  xy: 715, 3
+  size: 283, 318
+  orig: 283, 318
+  offset: 0, 0
+  index: -1
+sui2_shanzhu
+  rotate: true
+  xy: 1022, 287
+  size: 334, 283
+  orig: 334, 283
+  offset: 0, 0
+  index: -1
+sui3_shanzhu
+  rotate: false
+  xy: 715, 323
+  size: 305, 298
+  orig: 305, 298
+  offset: 0, 0
+  index: -1
+sui4_shanzhu
+  rotate: false
+  xy: 1000, 3
+  size: 332, 282
+  orig: 332, 282
+  offset: 0, 0
+  index: -1
+sui5_shanzhu
+  rotate: false
+  xy: 1307, 296
+  size: 253, 325
+  orig: 253, 325
+  offset: 0, 0
+  index: -1
+zhi_shanzhu
+  rotate: false
+  xy: 2, 2
+  size: 711, 619
+  orig: 711, 619
+  offset: 0, 0
+  index: -1

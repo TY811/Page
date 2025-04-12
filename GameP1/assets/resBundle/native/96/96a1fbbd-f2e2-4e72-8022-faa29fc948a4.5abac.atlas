@@ -1,0 +1,20 @@
+
+wanneng.png
+size: 158,106
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang
+  rotate: false
+  xy: 2, 2
+  size: 90, 102
+  orig: 90, 102
+  offset: 0, 0
+  index: -1
+xx8
+  rotate: false
+  xy: 94, 42
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+yinger.png
+size: 306,115
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lei1
+  rotate: false
+  xy: 96, 2
+  size: 54, 24
+  orig: 54, 24
+  offset: 0, 0
+  index: -1
+lei2
+  rotate: true
+  xy: 269, 65
+  size: 48, 35
+  orig: 48, 35
+  offset: 0, 0
+  index: -1
+lei3
+  rotate: false
+  xy: 183, 3
+  size: 54, 24
+  orig: 54, 24
+  offset: 0, 0
+  index: -1
+lei4
+  rotate: true
+  xy: 269, 15
+  size: 48, 33
+  orig: 48, 33
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 5
+  size: 92, 108
+  orig: 92, 108
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 183, 29
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+tou2
+  rotate: false
+  xy: 96, 28
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1

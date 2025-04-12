@@ -1,0 +1,27 @@
+
+nv2.png
+size: 1738,146
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nv2
+  rotate: false
+  xy: 2, 2
+  size: 642, 142
+  orig: 642, 142
+  offset: 0, 0
+  index: -1
+nv2gui
+  rotate: false
+  xy: 646, 2
+  size: 642, 142
+  orig: 642, 142
+  offset: 0, 0
+  index: -1
+nv2yy
+  rotate: false
+  xy: 1290, 93
+  size: 446, 51
+  orig: 446, 51
+  offset: 0, 0
+  index: -1

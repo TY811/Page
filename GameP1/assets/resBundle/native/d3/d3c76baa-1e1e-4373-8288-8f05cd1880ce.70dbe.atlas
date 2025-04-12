@@ -1,0 +1,27 @@
+
+baiyutu.png
+size: 239,91
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tuzi
+  rotate: false
+  xy: 89, 7
+  size: 76, 82
+  orig: 76, 82
+  offset: 0, 0
+  index: -1
+tuzi2
+  rotate: false
+  xy: 167, 9
+  size: 70, 80
+  orig: 70, 80
+  offset: 0, 0
+  index: -1
+tuziguang
+  rotate: false
+  xy: 2, 2
+  size: 85, 87
+  orig: 85, 87
+  offset: 0, 0
+  index: -1

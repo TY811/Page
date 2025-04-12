@@ -1,0 +1,27 @@
+
+jiebing_chuxian.png
+size: 498,153
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yanwu1
+  rotate: false
+  xy: 2, 11
+  size: 188, 140
+  orig: 188, 140
+  offset: 0, 0
+  index: -1
+yanwu2
+  rotate: false
+  xy: 369, 2
+  size: 127, 149
+  orig: 127, 149
+  offset: 0, 0
+  index: -1
+yanwu3
+  rotate: true
+  xy: 192, 42
+  size: 109, 175
+  orig: 109, 175
+  offset: 0, 0
+  index: -1

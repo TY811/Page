@@ -1,0 +1,48 @@
+
+fupo.png
+size: 190,203
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chunyin
+  rotate: true
+  xy: 164, 171
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+fupo
+  rotate: false
+  xy: 2, 51
+  size: 160, 150
+  orig: 160, 150
+  offset: 0, 0
+  index: -1
+fupomeimao
+  rotate: false
+  xy: 164, 142
+  size: 22, 9
+  orig: 22, 9
+  offset: 0, 0
+  index: -1
+fuposhou
+  rotate: true
+  xy: 150, 2
+  size: 47, 37
+  orig: 47, 37
+  offset: 0, 0
+  index: -1
+fupoyy
+  rotate: false
+  xy: 2, 10
+  size: 146, 39
+  orig: 146, 39
+  offset: 0, 0
+  index: -1
+fupozui
+  rotate: false
+  xy: 164, 153
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1

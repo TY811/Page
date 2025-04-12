@@ -1,0 +1,55 @@
+
+huolongguo.png
+size: 1154,623
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sui1_huolongguo
+  rotate: false
+  xy: 715, 131
+  size: 236, 245
+  orig: 236, 245
+  offset: 0, 0
+  index: -1
+sui2_huolongguo
+  rotate: true
+  xy: 956, 350
+  size: 271, 196
+  orig: 271, 196
+  offset: 0, 0
+  index: -1
+sui3_huolongguo
+  rotate: true
+  xy: 953, 121
+  size: 227, 189
+  orig: 227, 189
+  offset: 0, 0
+  index: -1
+sui4_huolongguo
+  rotate: true
+  xy: 953, 121
+  size: 227, 189
+  orig: 227, 189
+  offset: 0, 0
+  index: -1
+sui5_huolongguo
+  rotate: false
+  xy: 715, 378
+  size: 239, 243
+  orig: 239, 243
+  offset: 0, 0
+  index: -1
+sui6_huolongguo
+  rotate: false
+  xy: 715, 378
+  size: 239, 243
+  orig: 239, 243
+  offset: 0, 0
+  index: -1
+zhi_huolongguo
+  rotate: false
+  xy: 2, 2
+  size: 711, 619
+  orig: 711, 619
+  offset: 0, 0
+  index: -1

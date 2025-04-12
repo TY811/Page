@@ -1,0 +1,27 @@
+
+baiyutugongji2.png
+size: 886,215
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ds2
+  rotate: false
+  xy: 2, 2
+  size: 704, 211
+  orig: 704, 211
+  offset: 0, 0
+  index: -1
+xingguang_xiao
+  rotate: true
+  xy: 708, 8
+  size: 205, 156
+  orig: 205, 156
+  offset: 0, 0
+  index: -1
+xue4
+  rotate: false
+  xy: 866, 194
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+xueqiu2.png
+size: 1153,227
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ds2
+  rotate: false
+  xy: 2, 14
+  size: 704, 211
+  orig: 704, 211
+  offset: 0, 0
+  index: -1
+shouji2_001
+  rotate: false
+  xy: 972, 139
+  size: 89, 86
+  orig: 89, 86
+  offset: 0, 0
+  index: -1
+shouji2_002
+  rotate: true
+  xy: 884, 41
+  size: 90, 86
+  orig: 90, 86
+  offset: 0, 0
+  index: -1
+shouji2_004
+  rotate: true
+  xy: 708, 133
+  size: 92, 86
+  orig: 92, 86
+  offset: 0, 0
+  index: -1
+shouji2_006
+  rotate: true
+  xy: 708, 39
+  size: 92, 86
+  orig: 92, 86
+  offset: 0, 0
+  index: -1
+shouji2_008
+  rotate: true
+  xy: 796, 133
+  size: 92, 86
+  orig: 92, 86
+  offset: 0, 0
+  index: -1
+shouji2_010
+  rotate: true
+  xy: 796, 39
+  size: 92, 86
+  orig: 92, 86
+  offset: 0, 0
+  index: -1
+shouji2_012
+  rotate: true
+  xy: 884, 133
+  size: 92, 86
+  orig: 92, 86
+  offset: 0, 0
+  index: -1
+shouji2_014
+  rotate: true
+  xy: 1063, 57
+  size: 83, 85
+  orig: 83, 85
+  offset: 0, 0
+  index: -1
+shouji2_018
+  rotate: false
+  xy: 1063, 142
+  size: 88, 83
+  orig: 88, 83
+  offset: 0, 0
+  index: -1
+xingguang_xiao
+  rotate: false
+  xy: 972, 2
+  size: 55, 53
+  orig: 55, 53
+  offset: 0, 0
+  index: -1
+xue4
+  rotate: true
+  xy: 1082, 8
+  size: 47, 42
+  orig: 47, 42
+  offset: 0, 0
+  index: -1
+xuehua
+  rotate: false
+  xy: 1029, 3
+  size: 51, 52
+  orig: 51, 52
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,174 @@
+
+texiao1.png
+size: 1986,289
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+quan1_cheng
+  rotate: false
+  xy: 914, 8
+  size: 134, 126
+  orig: 134, 126
+  offset: 0, 0
+  index: -1
+quan1_fen
+  rotate: true
+  xy: 1858, 153
+  size: 134, 126
+  orig: 134, 126
+  offset: 0, 0
+  index: -1
+quan1_hong
+  rotate: true
+  xy: 1858, 17
+  size: 134, 126
+  orig: 134, 126
+  offset: 0, 0
+  index: -1
+quan1_huang
+  rotate: false
+  xy: 370, 8
+  size: 134, 126
+  orig: 134, 126
+  offset: 0, 0
+  index: -1
+quan1_lan
+  rotate: false
+  xy: 506, 8
+  size: 134, 126
+  orig: 134, 126
+  offset: 0, 0
+  index: -1
+quan1_lv
+  rotate: false
+  xy: 642, 8
+  size: 134, 126
+  orig: 134, 126
+  offset: 0, 0
+  index: -1
+quan1_zi
+  rotate: false
+  xy: 778, 8
+  size: 134, 126
+  orig: 134, 126
+  offset: 0, 0
+  index: -1
+quan1_zong
+  rotate: false
+  xy: 1050, 8
+  size: 134, 126
+  orig: 134, 126
+  offset: 0, 0
+  index: -1
+quan2_cheng
+  rotate: false
+  xy: 980, 136
+  size: 161, 151
+  orig: 161, 151
+  offset: 0, 0
+  index: -1
+quan2_fen
+  rotate: false
+  xy: 2, 136
+  size: 161, 151
+  orig: 161, 151
+  offset: 0, 0
+  index: -1
+quan2_hong
+  rotate: false
+  xy: 165, 136
+  size: 161, 151
+  orig: 161, 151
+  offset: 0, 0
+  index: -1
+quan2_huang
+  rotate: false
+  xy: 328, 136
+  size: 161, 151
+  orig: 161, 151
+  offset: 0, 0
+  index: -1
+quan2_lan
+  rotate: false
+  xy: 491, 136
+  size: 161, 151
+  orig: 161, 151
+  offset: 0, 0
+  index: -1
+quan2_lv
+  rotate: false
+  xy: 654, 136
+  size: 161, 151
+  orig: 161, 151
+  offset: 0, 0
+  index: -1
+quan2_zi
+  rotate: false
+  xy: 817, 136
+  size: 161, 151
+  orig: 161, 151
+  offset: 0, 0
+  index: -1
+quan2_zong
+  rotate: false
+  xy: 1143, 136
+  size: 161, 151
+  orig: 161, 151
+  offset: 0, 0
+  index: -1
+shu_cheng
+  rotate: true
+  xy: 2, 2
+  size: 132, 182
+  orig: 132, 182
+  offset: 0, 0
+  index: -1
+shu_fen
+  rotate: true
+  xy: 1306, 155
+  size: 132, 182
+  orig: 132, 182
+  offset: 0, 0
+  index: -1
+shu_hong
+  rotate: true
+  xy: 1490, 155
+  size: 132, 182
+  orig: 132, 182
+  offset: 0, 0
+  index: -1
+shu_huang
+  rotate: true
+  xy: 1674, 155
+  size: 132, 182
+  orig: 132, 182
+  offset: 0, 0
+  index: -1
+shu_lan
+  rotate: true
+  xy: 1306, 21
+  size: 132, 182
+  orig: 132, 182
+  offset: 0, 0
+  index: -1
+shu_lv
+  rotate: true
+  xy: 1490, 21
+  size: 132, 182
+  orig: 132, 182
+  offset: 0, 0
+  index: -1
+shu_zi
+  rotate: true
+  xy: 1674, 21
+  size: 132, 182
+  orig: 132, 182
+  offset: 0, 0
+  index: -1
+shu_zong
+  rotate: true
+  xy: 186, 2
+  size: 132, 182
+  orig: 132, 182
+  offset: 0, 0
+  index: -1

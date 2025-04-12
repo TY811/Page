@@ -1,0 +1,62 @@
+
+hamigua.png
+size: 1095,623
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sui1_hamigua
+  rotate: false
+  xy: 715, 5
+  size: 189, 166
+  orig: 189, 166
+  offset: 0, 0
+  index: -1
+sui2_hamigua
+  rotate: false
+  xy: 715, 5
+  size: 189, 166
+  orig: 189, 166
+  offset: 0, 0
+  index: -1
+sui3_hamigua
+  rotate: true
+  xy: 941, 213
+  size: 177, 152
+  orig: 177, 152
+  offset: 0, 0
+  index: -1
+sui4_hamigua
+  rotate: false
+  xy: 715, 392
+  size: 232, 229
+  orig: 232, 229
+  offset: 0, 0
+  index: -1
+sui5_hamigua
+  rotate: false
+  xy: 715, 173
+  size: 224, 217
+  orig: 224, 217
+  offset: 0, 0
+  index: -1
+sui6_hamigua
+  rotate: true
+  xy: 949, 403
+  size: 218, 128
+  orig: 218, 128
+  offset: 0, 0
+  index: -1
+sui7_hamigua
+  rotate: false
+  xy: 941, 27
+  size: 145, 184
+  orig: 145, 184
+  offset: 0, 0
+  index: -1
+zhi_hamiguo
+  rotate: false
+  xy: 2, 2
+  size: 711, 619
+  orig: 711, 619
+  offset: 0, 0
+  index: -1

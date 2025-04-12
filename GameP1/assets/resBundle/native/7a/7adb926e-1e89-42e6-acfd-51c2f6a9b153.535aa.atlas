@@ -1,0 +1,55 @@
+
+dianxian.png
+size: 1063,126
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shandian1
+  rotate: false
+  xy: 1020, 20
+  size: 20, 33
+  orig: 20, 33
+  offset: 0, 0
+  index: -1
+shandian2
+  rotate: true
+  xy: 1044, 89
+  size: 35, 17
+  orig: 35, 17
+  offset: 0, 0
+  index: -1
+shandian3
+  rotate: true
+  xy: 1044, 53
+  size: 34, 15
+  orig: 34, 15
+  offset: 0, 0
+  index: -1
+shandian4
+  rotate: false
+  xy: 1020, 2
+  size: 37, 16
+  orig: 37, 16
+  offset: 0, 0
+  index: -1
+shandian5
+  rotate: false
+  xy: 1020, 55
+  size: 22, 69
+  orig: 22, 69
+  offset: 0, 0
+  index: -1
+xian1
+  rotate: true
+  xy: 2, 10
+  size: 114, 507
+  orig: 114, 507
+  offset: 0, 0
+  index: -1
+xian2
+  rotate: true
+  xy: 511, 10
+  size: 114, 507
+  orig: 114, 507
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+xiake06.png
+size: 221,110
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian1
+  rotate: false
+  xy: 99, 2
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+dian2
+  rotate: false
+  xy: 118, 2
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+dian3
+  rotate: false
+  xy: 200, 89
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+dian6
+  rotate: false
+  xy: 200, 89
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+dian4
+  rotate: true
+  xy: 200, 69
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+dian5
+  rotate: false
+  xy: 200, 49
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+dian7
+  rotate: false
+  xy: 200, 49
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+dizuo3
+  rotate: true
+  xy: 164, 29
+  size: 79, 34
+  orig: 79, 34
+  offset: 0, 0
+  index: -1
+guang5
+  rotate: false
+  xy: 2, 11
+  size: 95, 97
+  orig: 95, 97
+  offset: 0, 0
+  index: -1
+ren5
+  rotate: false
+  xy: 99, 21
+  size: 63, 87
+  orig: 63, 87
+  offset: 0, 0
+  index: -1

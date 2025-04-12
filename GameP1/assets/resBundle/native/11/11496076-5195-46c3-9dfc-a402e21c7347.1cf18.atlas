@@ -1,0 +1,27 @@
+
+chouqi.png
+size: 135,102
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chouqi1
+  rotate: true
+  xy: 2, 11
+  size: 89, 58
+  orig: 89, 58
+  offset: 0, 0
+  index: -1
+chouqi2
+  rotate: false
+  xy: 62, 2
+  size: 62, 41
+  orig: 62, 41
+  offset: 0, 0
+  index: -1
+chouqi3
+  rotate: false
+  xy: 62, 45
+  size: 71, 55
+  orig: 71, 55
+  offset: 0, 0
+  index: -1

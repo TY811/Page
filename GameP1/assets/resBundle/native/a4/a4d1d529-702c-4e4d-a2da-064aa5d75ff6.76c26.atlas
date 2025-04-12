@@ -1,0 +1,27 @@
+
+hudun.png
+size: 617,220
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hudun1
+  rotate: false
+  xy: 2, 14
+  size: 244, 204
+  orig: 244, 204
+  offset: 0, 0
+  index: -1
+hudun2
+  rotate: true
+  xy: 466, 12
+  size: 206, 149
+  orig: 206, 149
+  offset: 0, 0
+  index: -1
+hudun3
+  rotate: false
+  xy: 248, 2
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+xxxiaochu.png
+size: 226,105
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+quan
+  rotate: false
+  xy: 2, 2
+  size: 101, 101
+  orig: 101, 101
+  offset: 0, 0
+  index: -1
+xx1
+  rotate: false
+  xy: 195, 44
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+xx2
+  rotate: false
+  xy: 195, 44
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+xx3
+  rotate: false
+  xy: 105, 61
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1
+xx4
+  rotate: false
+  xy: 195, 20
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+xx5
+  rotate: false
+  xy: 195, 20
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+xx6
+  rotate: false
+  xy: 195, 74
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+xx7
+  rotate: false
+  xy: 105, 17
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1
+xx8
+  rotate: false
+  xy: 150, 61
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1
+xx9
+  rotate: false
+  xy: 150, 17
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1

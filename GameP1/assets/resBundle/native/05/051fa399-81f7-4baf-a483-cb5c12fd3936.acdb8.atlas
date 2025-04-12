@@ -1,0 +1,27 @@
+
+guang.png
+size: 532,360
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guan
+  rotate: false
+  xy: 2, 10
+  size: 344, 348
+  orig: 344, 348
+  offset: 0, 0
+  index: -1
+quan
+  rotate: true
+  xy: 348, 2
+  size: 175, 178
+  orig: 175, 178
+  offset: 0, 0
+  index: -1
+xx
+  rotate: false
+  xy: 348, 179
+  size: 182, 179
+  orig: 182, 179
+  offset: 0, 0
+  index: -1

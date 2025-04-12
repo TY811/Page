@@ -1,0 +1,97 @@
+
+bingdong.png
+size: 239,280
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bing
+  rotate: false
+  xy: 2, 101
+  size: 181, 177
+  orig: 181, 177
+  offset: 0, 0
+  index: -1
+bingsui1
+  rotate: false
+  xy: 211, 46
+  size: 25, 53
+  orig: 25, 53
+  offset: 0, 0
+  index: -1
+bingsui10
+  rotate: true
+  xy: 185, 101
+  size: 40, 42
+  orig: 40, 42
+  offset: 0, 0
+  index: -1
+bingsui2
+  rotate: false
+  xy: 185, 192
+  size: 52, 86
+  orig: 52, 86
+  offset: 0, 0
+  index: -1
+bingsui3
+  rotate: false
+  xy: 140, 31
+  size: 38, 68
+  orig: 38, 68
+  offset: 0, 0
+  index: -1
+bingsui4
+  rotate: true
+  xy: 84, 2
+  size: 27, 62
+  orig: 27, 62
+  offset: 0, 0
+  index: -1
+bingsui5
+  rotate: false
+  xy: 84, 31
+  size: 54, 68
+  orig: 54, 68
+  offset: 0, 0
+  index: -1
+bingsui6
+  rotate: false
+  xy: 185, 143
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+bingsui7
+  rotate: true
+  xy: 2, 3
+  size: 22, 36
+  orig: 22, 36
+  offset: 0, 0
+  index: -1
+bingsui8
+  rotate: true
+  xy: 180, 2
+  size: 44, 29
+  orig: 44, 29
+  offset: 0, 0
+  index: -1
+bingsui9
+  rotate: false
+  xy: 180, 48
+  size: 28, 51
+  orig: 28, 51
+  offset: 0, 0
+  index: -1
+xx1
+  rotate: false
+  xy: 2, 27
+  size: 80, 72
+  orig: 80, 72
+  offset: 0, 0
+  index: -1
+xx2
+  rotate: false
+  xy: 2, 27
+  size: 80, 72
+  orig: 80, 72
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,118 @@
+
+chuxian.png
+size: 631,126
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian1
+  rotate: false
+  xy: 545, 52
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+dian2
+  rotate: false
+  xy: 412, 9
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+dian3
+  rotate: false
+  xy: 545, 12
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+dian4
+  rotate: false
+  xy: 168, 10
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+dizuo1
+  rotate: false
+  xy: 130, 2
+  size: 36, 23
+  orig: 36, 23
+  offset: 0, 0
+  index: -1
+dizuo2
+  rotate: false
+  xy: 459, 66
+  size: 111, 58
+  orig: 111, 58
+  offset: 0, 0
+  index: -1
+dizuo3
+  rotate: false
+  xy: 2, 27
+  size: 180, 97
+  orig: 180, 97
+  offset: 0, 0
+  index: -1
+dizuo4
+  rotate: false
+  xy: 459, 8
+  size: 84, 56
+  orig: 84, 56
+  offset: 0, 0
+  index: -1
+guangshu1
+  rotate: true
+  xy: 336, 26
+  size: 98, 121
+  orig: 98, 121
+  offset: 0, 0
+  index: -1
+guangshu2
+  rotate: false
+  xy: 184, 8
+  size: 150, 116
+  orig: 150, 116
+  offset: 0, 0
+  index: -1
+xhixian3
+  rotate: true
+  xy: 336, 14
+  size: 10, 74
+  orig: 10, 74
+  offset: 0, 0
+  index: -1
+xiaozhuzi
+  rotate: true
+  xy: 572, 41
+  size: 83, 45
+  orig: 83, 45
+  offset: 0, 0
+  index: -1
+zhixian1
+  rotate: true
+  xy: 336, 2
+  size: 10, 74
+  orig: 10, 74
+  offset: 0, 0
+  index: -1
+zhixian2
+  rotate: false
+  xy: 619, 50
+  size: 10, 74
+  orig: 10, 74
+  offset: 0, 0
+  index: -1
+zhixian4
+  rotate: true
+  xy: 545, 29
+  size: 10, 74
+  orig: 10, 74
+  offset: 0, 0
+  index: -1
+zhixian5
+  rotate: true
+  xy: 2, 12
+  size: 13, 126
+  orig: 13, 126
+  offset: 0, 0
+  index: -1

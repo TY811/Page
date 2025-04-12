@@ -1,0 +1,55 @@
+
+che_caise.png
+size: 224,285
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+che_caise
+  rotate: true
+  xy: 2, 25
+  size: 258, 144
+  orig: 258, 144
+  offset: 0, 0
+  index: -1
+men_guang_da
+  rotate: false
+  xy: 148, 24
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+men_kai1_da
+  rotate: true
+  xy: 2, 2
+  size: 20, 44
+  orig: 20, 44
+  offset: 0, 0
+  index: -1
+men_kai2_da
+  rotate: true
+  xy: 48, 2
+  size: 20, 44
+  orig: 20, 44
+  offset: 0, 0
+  index: -1
+yan1
+  rotate: true
+  xy: 148, 125
+  size: 75, 73
+  orig: 75, 73
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: false
+  xy: 148, 61
+  size: 54, 62
+  orig: 54, 62
+  offset: 0, 0
+  index: -1
+yan3
+  rotate: true
+  xy: 148, 202
+  size: 81, 74
+  orig: 81, 74
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+xiaoqiu_texiao2.png
+size: 181,110
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fenian
+  rotate: false
+  xy: 110, 40
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+heian
+  rotate: false
+  xy: 159, 88
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+hongian
+  rotate: false
+  xy: 110, 18
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+huangian
+  rotate: false
+  xy: 132, 40
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+lanian
+  rotate: false
+  xy: 159, 66
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+lvian
+  rotate: false
+  xy: 132, 18
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+qingian
+  rotate: false
+  xy: 154, 40
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+san
+  rotate: false
+  xy: 2, 2
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+xx
+  rotate: false
+  xy: 110, 62
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+ziian
+  rotate: false
+  xy: 154, 18
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+long_weiba.png
+size: 110,126
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+weiba
+  rotate: false
+  xy: 2, 2
+  size: 106, 122
+  orig: 106, 122
+  offset: 0, 0
+  index: -1

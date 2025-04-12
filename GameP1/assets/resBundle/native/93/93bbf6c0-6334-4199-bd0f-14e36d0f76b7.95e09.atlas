@@ -1,0 +1,20 @@
+
+huasa.png
+size: 357,55
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huasa
+  rotate: true
+  xy: 2, 7
+  size: 46, 300
+  orig: 46, 300
+  offset: 0, 0
+  index: -1
+shui
+  rotate: false
+  xy: 304, 2
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1

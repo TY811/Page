@@ -1,0 +1,20 @@
+
+heidong_texiao.png
+size: 159,82
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dongxiaoshi1
+  rotate: true
+  xy: 97, 9
+  size: 71, 60
+  orig: 71, 60
+  offset: 0, 0
+  index: -1
+dongxiaoshi2
+  rotate: true
+  xy: 2, 2
+  size: 78, 93
+  orig: 78, 93
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+tuowei.png
+size: 179,85
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tuowei
+  rotate: false
+  xy: 2, 2
+  size: 129, 81
+  orig: 129, 81
+  offset: 0, 0
+  index: -1
+tuowei2
+  rotate: false
+  xy: 133, 41
+  size: 44, 42
+  orig: 44, 42
+  offset: 0, 0
+  index: -1

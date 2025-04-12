@@ -1,0 +1,48 @@
+
+chengzi.png
+size: 1581,623
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sui1_chengzi
+  rotate: true
+  xy: 715, 311
+  size: 310, 296
+  orig: 310, 296
+  offset: 0, 0
+  index: -1
+sui2_chengzi
+  rotate: false
+  xy: 1016, 27
+  size: 286, 305
+  orig: 286, 305
+  offset: 0, 0
+  index: -1
+sui3_chengzi
+  rotate: false
+  xy: 1013, 334
+  size: 313, 287
+  orig: 313, 287
+  offset: 0, 0
+  index: -1
+sui4_chengzi
+  rotate: true
+  xy: 1304, 21
+  size: 311, 275
+  orig: 311, 275
+  offset: 0, 0
+  index: -1
+sui5_chengzi
+  rotate: true
+  xy: 715, 4
+  size: 305, 299
+  orig: 305, 299
+  offset: 0, 0
+  index: -1
+zhi_chengzi
+  rotate: false
+  xy: 2, 2
+  size: 711, 619
+  orig: 711, 619
+  offset: 0, 0
+  index: -1

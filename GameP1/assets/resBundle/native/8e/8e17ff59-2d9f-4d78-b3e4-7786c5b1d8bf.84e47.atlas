@@ -1,0 +1,62 @@
+
+xiaochu.png
+size: 588,352
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian1
+  rotate: false
+  xy: 376, 121
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+dian3
+  rotate: false
+  xy: 348, 144
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+dian5
+  rotate: false
+  xy: 376, 146
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+dian6
+  rotate: false
+  xy: 348, 116
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+dian7
+  rotate: false
+  xy: 348, 90
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+guan
+  rotate: false
+  xy: 2, 2
+  size: 344, 348
+  orig: 344, 348
+  offset: 0, 0
+  index: -1
+guang
+  rotate: true
+  xy: 525, 117
+  size: 233, 61
+  orig: 233, 61
+  offset: 0, 0
+  index: -1
+quan
+  rotate: false
+  xy: 348, 172
+  size: 175, 178
+  orig: 175, 178
+  offset: 0, 0
+  index: -1

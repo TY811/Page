@@ -1,0 +1,62 @@
+
+yezi.png
+size: 1140,631
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sui1_yezi
+  rotate: false
+  xy: 715, 279
+  size: 238, 179
+  orig: 238, 179
+  offset: 0, 0
+  index: -1
+sui2_yezi
+  rotate: false
+  xy: 955, 165
+  size: 170, 234
+  orig: 170, 234
+  offset: 0, 0
+  index: -1
+sui3_yezi
+  rotate: true
+  xy: 957, 401
+  size: 228, 180
+  orig: 228, 180
+  offset: 0, 0
+  index: -1
+sui4_yezi
+  rotate: true
+  xy: 996, 14
+  size: 149, 142
+  orig: 149, 142
+  offset: 0, 0
+  index: -1
+sui5_yezi
+  rotate: false
+  xy: 715, 2
+  size: 158, 161
+  orig: 158, 161
+  offset: 0, 0
+  index: -1
+sui6_yezi
+  rotate: true
+  xy: 715, 460
+  size: 169, 240
+  orig: 169, 240
+  offset: 0, 0
+  index: -1
+sui7_yezi
+  rotate: false
+  xy: 875, 2
+  size: 119, 161
+  orig: 119, 161
+  offset: 0, 0
+  index: -1
+zhi_yezi
+  rotate: false
+  xy: 2, 10
+  size: 711, 619
+  orig: 711, 619
+  offset: 0, 0
+  index: -1
