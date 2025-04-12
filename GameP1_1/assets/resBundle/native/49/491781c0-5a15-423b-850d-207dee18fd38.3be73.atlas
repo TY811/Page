@@ -1,0 +1,83 @@
+
+cunmin.png
+size: 267,109
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dou1
+  rotate: true
+  xy: 119, 4
+  size: 15, 35
+  orig: 15, 35
+  offset: 0, 0
+  index: -1
+dou2
+  rotate: true
+  xy: 72, 2
+  size: 17, 45
+  orig: 17, 45
+  offset: 0, 0
+  index: -1
+han1
+  rotate: false
+  xy: 156, 11
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+han2
+  rotate: true
+  xy: 166, 12
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+han3
+  rotate: true
+  xy: 177, 14
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 204, 34
+  size: 73, 61
+  orig: 73, 61
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: true
+  xy: 204, 6
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: true
+  xy: 234, 6
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 2, 21
+  size: 86, 99
+  orig: 86, 99
+  offset: 0, 0
+  index: -1
+tou2
+  rotate: true
+  xy: 103, 21
+  size: 86, 99
+  orig: 86, 99
+  offset: 0, 0
+  index: -1
+yy
+  rotate: false
+  xy: 2, 4
+  size: 68, 15
+  orig: 68, 15
+  offset: 0, 0
+  index: -1

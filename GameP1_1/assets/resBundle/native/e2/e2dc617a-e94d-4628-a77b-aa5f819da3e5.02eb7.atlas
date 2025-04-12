@@ -1,0 +1,48 @@
+
+xiaochu.png
+size: 785,458
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangshu
+  rotate: true
+  xy: 2, 360
+  size: 96, 781
+  orig: 96, 781
+  offset: 0, 0
+  index: -1
+guangshu2
+  rotate: true
+  xy: 360, 242
+  size: 116, 403
+  orig: 116, 403
+  offset: 0, 0
+  index: -1
+guangyun
+  rotate: false
+  xy: 360, 76
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 2, 2
+  size: 356, 356
+  orig: 356, 356
+  offset: 0, 0
+  index: -1
+wujiaoxing_a
+  rotate: true
+  xy: 675, 130
+  size: 110, 105
+  orig: 110, 105
+  offset: 0, 0
+  index: -1
+wujiaoxing_b
+  rotate: false
+  xy: 526, 97
+  size: 147, 143
+  orig: 147, 143
+  offset: 0, 0
+  index: -1

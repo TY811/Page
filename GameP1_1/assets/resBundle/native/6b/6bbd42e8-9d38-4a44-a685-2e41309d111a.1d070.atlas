@@ -1,0 +1,34 @@
+
+nan1.png
+size: 438,270
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chuizi
+  rotate: false
+  xy: 361, 139
+  size: 75, 129
+  orig: 75, 129
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: true
+  xy: 2, 2
+  size: 266, 357
+  orig: 266, 357
+  offset: 0, 0
+  index: -1
+haipa
+  rotate: false
+  xy: 361, 48
+  size: 69, 89
+  orig: 69, 89
+  offset: 0, 0
+  index: -1
+shou
+  rotate: false
+  xy: 361, 14
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1

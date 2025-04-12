@@ -1,0 +1,76 @@
+
+xiake02.png
+size: 142,75
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian1
+  rotate: false
+  xy: 121, 15
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+dian2
+  rotate: false
+  xy: 61, 5
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+dian3
+  rotate: false
+  xy: 121, 54
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+dian6
+  rotate: false
+  xy: 121, 54
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+dian4
+  rotate: true
+  xy: 121, 34
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+dian5
+  rotate: false
+  xy: 41, 4
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+dian7
+  rotate: false
+  xy: 41, 4
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+dizuo2
+  rotate: true
+  xy: 92, 13
+  size: 60, 27
+  orig: 60, 27
+  offset: 0, 0
+  index: -1
+guang2
+  rotate: false
+  xy: 41, 24
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+ren2
+  rotate: false
+  xy: 2, 2
+  size: 37, 71
+  orig: 37, 71
+  offset: 0, 0
+  index: -1

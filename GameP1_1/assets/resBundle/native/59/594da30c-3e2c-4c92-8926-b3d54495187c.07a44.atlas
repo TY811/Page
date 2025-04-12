@@ -1,0 +1,27 @@
+
+yu.png
+size: 1539,219
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yu1
+  rotate: true
+  xy: 654, 2
+  size: 215, 643
+  orig: 215, 643
+  offset: 0, 0
+  index: -1
+yu2
+  rotate: true
+  xy: 2, 2
+  size: 215, 650
+  orig: 215, 650
+  offset: 0, 0
+  index: -1
+yun
+  rotate: false
+  xy: 1299, 53
+  size: 238, 164
+  orig: 238, 164
+  offset: 0, 0
+  index: -1

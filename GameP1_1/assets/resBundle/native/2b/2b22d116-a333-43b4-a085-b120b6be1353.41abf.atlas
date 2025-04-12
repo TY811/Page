@@ -1,0 +1,55 @@
+
+shuizhu.png
+size: 815,334
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shuihua1
+  rotate: true
+  xy: 517, 159
+  size: 173, 82
+  orig: 173, 82
+  offset: 0, 0
+  index: -1
+shuihua2
+  rotate: true
+  xy: 601, 167
+  size: 165, 75
+  orig: 165, 75
+  offset: 0, 0
+  index: -1
+shuihua3
+  rotate: false
+  xy: 406, 31
+  size: 183, 94
+  orig: 183, 94
+  offset: 0, 0
+  index: -1
+shuiliu1
+  rotate: true
+  xy: 678, 202
+  size: 130, 135
+  orig: 130, 135
+  offset: 0, 0
+  index: -1
+shuiliu2
+  rotate: true
+  xy: 591, 2
+  size: 155, 172
+  orig: 155, 172
+  offset: 0, 0
+  index: -1
+shuiliu3
+  rotate: false
+  xy: 406, 127
+  size: 109, 205
+  orig: 109, 205
+  offset: 0, 0
+  index: -1
+shuizhu
+  rotate: true
+  xy: 2, 4
+  size: 328, 402
+  orig: 328, 402
+  offset: 0, 0
+  index: -1

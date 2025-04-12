@@ -1,0 +1,27 @@
+
+jinbitexiao.png
+size: 297,124
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jinbi1
+  rotate: true
+  xy: 2, 2
+  size: 120, 135
+  orig: 120, 135
+  offset: 0, 0
+  index: -1
+jinbi2
+  rotate: false
+  xy: 227, 54
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+jinbi3
+  rotate: false
+  xy: 139, 36
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1

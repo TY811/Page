@@ -1,0 +1,13 @@
+
+huoyan.png
+size: 201,225
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huoyan
+  rotate: false
+  xy: 2, 2
+  size: 197, 221
+  orig: 197, 221
+  offset: 0, 0
+  index: -1

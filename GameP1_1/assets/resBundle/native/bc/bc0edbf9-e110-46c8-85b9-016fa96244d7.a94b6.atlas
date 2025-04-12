@@ -1,0 +1,111 @@
+
+kapi_shifa.png
+size: 1443,792
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+erduo
+  rotate: true
+  xy: 881, 13
+  size: 69, 71
+  orig: 69, 71
+  offset: 0, 0
+  index: -1
+erduo2
+  rotate: true
+  xy: 954, 14
+  size: 68, 71
+  orig: 68, 71
+  offset: 0, 0
+  index: -1
+guang1
+  rotate: false
+  xy: 1027, 37
+  size: 83, 41
+  orig: 83, 41
+  offset: 0, 0
+  index: -1
+guang2
+  rotate: false
+  xy: 789, 22
+  size: 90, 60
+  orig: 90, 60
+  offset: 0, 0
+  index: -1
+guang3
+  rotate: true
+  xy: 1329, 413
+  size: 113, 98
+  orig: 113, 98
+  offset: 0, 0
+  index: -1
+jian1
+  rotate: true
+  xy: 704, 9
+  size: 73, 83
+  orig: 73, 83
+  offset: 0, 0
+  index: -1
+jiang2
+  rotate: true
+  xy: 1046, 80
+  size: 297, 169
+  orig: 297, 169
+  offset: 0, 0
+  index: -1
+lingjin
+  rotate: false
+  xy: 729, 84
+  size: 315, 293
+  orig: 315, 293
+  offset: 0, 0
+  index: -1
+pifeng
+  rotate: true
+  xy: 1217, 121
+  size: 256, 191
+  orig: 256, 191
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 729, 379
+  size: 598, 411
+  orig: 598, 411
+  offset: 0, 0
+  index: -1
+shou
+  rotate: true
+  xy: 1217, 15
+  size: 104, 195
+  orig: 104, 195
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: false
+  xy: 1329, 528
+  size: 112, 262
+  orig: 112, 262
+  offset: 0, 0
+  index: -1
+tui
+  rotate: true
+  xy: 340, 10
+  size: 153, 362
+  orig: 153, 362
+  offset: 0, 0
+  index: -1
+tui2
+  rotate: true
+  xy: 2, 2
+  size: 161, 336
+  orig: 161, 336
+  offset: 0, 0
+  index: -1
+uang
+  rotate: false
+  xy: 2, 165
+  size: 725, 625
+  orig: 725, 625
+  offset: 0, 0
+  index: -1

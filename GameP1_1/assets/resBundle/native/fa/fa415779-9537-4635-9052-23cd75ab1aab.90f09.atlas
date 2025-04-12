@@ -1,0 +1,76 @@
+
+xiake14.png
+size: 189,141
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian1
+  rotate: false
+  xy: 63, 4
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+dian2
+  rotate: false
+  xy: 82, 4
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+dian3
+  rotate: false
+  xy: 2, 2
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+dian6
+  rotate: false
+  xy: 2, 2
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+dian4
+  rotate: false
+  xy: 23, 2
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+dian5
+  rotate: false
+  xy: 43, 3
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+dian7
+  rotate: false
+  xy: 43, 3
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+dizuo3
+  rotate: false
+  xy: 101, 4
+  size: 79, 34
+  orig: 79, 34
+  offset: 0, 0
+  index: -1
+guang10
+  rotate: true
+  xy: 101, 40
+  size: 99, 86
+  orig: 99, 86
+  offset: 0, 0
+  index: -1
+ren14
+  rotate: true
+  xy: 2, 23
+  size: 116, 97
+  orig: 116, 97
+  offset: 0, 0
+  index: -1

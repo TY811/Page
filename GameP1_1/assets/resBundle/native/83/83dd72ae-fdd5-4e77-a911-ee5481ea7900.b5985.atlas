@@ -1,0 +1,83 @@
+
+tuzhu.png
+size: 603,126
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baiguang
+  rotate: true
+  xy: 414, 2
+  size: 70, 126
+  orig: 70, 126
+  offset: 0, 0
+  index: -1
+dian1
+  rotate: false
+  xy: 335, 33
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+dian2
+  rotate: false
+  xy: 293, 31
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+dian3
+  rotate: true
+  xy: 583, 105
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+dian4
+  rotate: false
+  xy: 314, 31
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+dian5
+  rotate: true
+  xy: 583, 84
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+fuzhou
+  rotate: false
+  xy: 255, 13
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+heiqiu
+  rotate: false
+  xy: 542, 18
+  size: 53, 54
+  orig: 53, 54
+  offset: 0, 0
+  index: -1
+languang
+  rotate: true
+  xy: 2, 7
+  size: 117, 251
+  orig: 117, 251
+  offset: 0, 0
+  index: -1
+xian1
+  rotate: true
+  xy: 414, 74
+  size: 50, 167
+  orig: 50, 167
+  offset: 0, 0
+  index: -1
+xian2
+  rotate: true
+  xy: 255, 52
+  size: 72, 157
+  orig: 72, 157
+  offset: 0, 0
+  index: -1

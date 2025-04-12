@@ -1,0 +1,13 @@
+
+shui2.png
+size: 619,935
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shui2
+  rotate: false
+  xy: 2, 2
+  size: 615, 931
+  orig: 615, 931
+  offset: 0, 0
+  index: -1

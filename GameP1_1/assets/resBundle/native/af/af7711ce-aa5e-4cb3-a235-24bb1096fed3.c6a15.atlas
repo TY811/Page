@@ -1,0 +1,55 @@
+
+majiangsui.png
+size: 157,90
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sui1
+  rotate: true
+  xy: 73, 56
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+sui12
+  rotate: false
+  xy: 98, 2
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+sui3
+  rotate: false
+  xy: 2, 58
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+sui4
+  rotate: false
+  xy: 52, 10
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+sui5
+  rotate: true
+  xy: 2, 16
+  size: 40, 48
+  orig: 40, 48
+  offset: 0, 0
+  index: -1
+sui6
+  rotate: false
+  xy: 37, 58
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+sui7
+  rotate: true
+  xy: 120, 48
+  size: 40, 35
+  orig: 40, 35
+  offset: 0, 0
+  index: -1

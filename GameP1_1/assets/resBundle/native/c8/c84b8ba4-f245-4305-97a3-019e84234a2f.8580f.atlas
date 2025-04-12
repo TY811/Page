@@ -1,0 +1,76 @@
+
+xiake15.png
+size: 368,152
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian1
+  rotate: false
+  xy: 281, 25
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+dian2
+  rotate: false
+  xy: 300, 25
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+dian3
+  rotate: false
+  xy: 260, 23
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+dian6
+  rotate: false
+  xy: 260, 23
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+dian4
+  rotate: false
+  xy: 260, 2
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+dian5
+  rotate: false
+  xy: 280, 3
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+dian7
+  rotate: false
+  xy: 280, 3
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+dizuo4
+  rotate: true
+  xy: 169, 13
+  size: 137, 89
+  orig: 137, 89
+  offset: 0, 0
+  index: -1
+guang11
+  rotate: false
+  xy: 2, 5
+  size: 165, 145
+  orig: 165, 145
+  offset: 0, 0
+  index: -1
+ren15
+  rotate: false
+  xy: 260, 44
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1

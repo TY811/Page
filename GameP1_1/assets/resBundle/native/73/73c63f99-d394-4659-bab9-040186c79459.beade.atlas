@@ -1,0 +1,27 @@
+
+chiyanque.png
+size: 244,96
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+niao
+  rotate: false
+  xy: 181, 36
+  size: 61, 58
+  orig: 61, 58
+  offset: 0, 0
+  index: -1
+niao2
+  rotate: false
+  xy: 104, 6
+  size: 75, 88
+  orig: 75, 88
+  offset: 0, 0
+  index: -1
+niaoguang
+  rotate: true
+  xy: 2, 2
+  size: 92, 100
+  orig: 92, 100
+  offset: 0, 0
+  index: -1

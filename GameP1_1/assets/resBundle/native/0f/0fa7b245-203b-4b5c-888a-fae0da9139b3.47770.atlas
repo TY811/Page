@@ -1,0 +1,27 @@
+
+cao.png
+size: 501,133
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cao1
+  rotate: false
+  xy: 2, 2
+  size: 234, 129
+  orig: 234, 129
+  offset: 0, 0
+  index: -1
+cao2
+  rotate: false
+  xy: 238, 34
+  size: 175, 97
+  orig: 175, 97
+  offset: 0, 0
+  index: -1
+图层 1846
+  rotate: true
+  xy: 415, 19
+  size: 112, 84
+  orig: 112, 84
+  offset: 0, 0
+  index: -1

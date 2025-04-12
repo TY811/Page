@@ -1,0 +1,27 @@
+
+dajian.png
+size: 319,130
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dajian1
+  rotate: false
+  xy: 241, 52
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+dajian2
+  rotate: true
+  xy: 124, 2
+  size: 126, 115
+  orig: 126, 115
+  offset: 0, 0
+  index: -1
+dajian3
+  rotate: true
+  xy: 2, 4
+  size: 124, 120
+  orig: 124, 120
+  offset: 0, 0
+  index: -1

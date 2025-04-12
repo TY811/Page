@@ -1,0 +1,13 @@
+
+laoshu.png
+size: 48,66
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+laoshu
+  rotate: false
+  xy: 2, 2
+  size: 44, 62
+  orig: 44, 62
+  offset: 0, 0
+  index: -1

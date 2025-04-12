@@ -1,0 +1,41 @@
+
+hujia.png
+size: 275,140
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hujia
+  rotate: false
+  xy: 2, 23
+  size: 113, 115
+  orig: 113, 115
+  offset: 0, 0
+  index: -1
+pojiasui1
+  rotate: true
+  xy: 189, 73
+  size: 65, 84
+  orig: 65, 84
+  offset: 0, 0
+  index: -1
+pojiasui2
+  rotate: false
+  xy: 189, 12
+  size: 66, 59
+  orig: 66, 59
+  offset: 0, 0
+  index: -1
+pojiasui3
+  rotate: false
+  xy: 117, 55
+  size: 70, 83
+  orig: 70, 83
+  offset: 0, 0
+  index: -1
+pojiasui4
+  rotate: false
+  xy: 117, 2
+  size: 59, 51
+  orig: 59, 51
+  offset: 0, 0
+  index: -1

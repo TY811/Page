@@ -1,0 +1,20 @@
+
+chuansongdai2.png
+size: 511,208
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+youguang1
+  rotate: false
+  xy: 2, 2
+  size: 283, 204
+  orig: 283, 204
+  offset: 0, 0
+  index: -1
+youguang2
+  rotate: false
+  xy: 287, 46
+  size: 222, 160
+  orig: 222, 160
+  offset: 0, 0
+  index: -1

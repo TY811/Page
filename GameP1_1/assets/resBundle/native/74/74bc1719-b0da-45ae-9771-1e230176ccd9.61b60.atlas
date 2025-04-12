@@ -1,0 +1,48 @@
+
+kacao.png
+size: 1034,497
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 889, 136
+  size: 143, 145
+  orig: 143, 145
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 711, 98
+  size: 176, 179
+  orig: 176, 179
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 2, 2
+  size: 493, 493
+  orig: 493, 493
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 497, 65
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 723, 283
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+smoke
+  rotate: false
+  xy: 497, 279
+  size: 224, 216
+  orig: 224, 216
+  offset: 0, 0
+  index: -1

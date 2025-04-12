@@ -1,0 +1,111 @@
+
+che.png
+size: 442,531
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+che_cheng
+  rotate: false
+  xy: 2, 421
+  size: 211, 108
+  orig: 211, 108
+  offset: 0, 0
+  index: -1
+che_fen
+  rotate: false
+  xy: 215, 421
+  size: 211, 108
+  orig: 211, 108
+  offset: 0, 0
+  index: -1
+che_hong
+  rotate: true
+  xy: 2, 208
+  size: 211, 108
+  orig: 211, 108
+  offset: 0, 0
+  index: -1
+che_huang
+  rotate: false
+  xy: 2, 98
+  size: 211, 108
+  orig: 211, 108
+  offset: 0, 0
+  index: -1
+che_lan
+  rotate: true
+  xy: 112, 208
+  size: 211, 108
+  orig: 211, 108
+  offset: 0, 0
+  index: -1
+che_lv
+  rotate: false
+  xy: 215, 98
+  size: 211, 108
+  orig: 211, 108
+  offset: 0, 0
+  index: -1
+che_zi
+  rotate: true
+  xy: 332, 208
+  size: 211, 108
+  orig: 211, 108
+  offset: 0, 0
+  index: -1
+che_zong
+  rotate: true
+  xy: 222, 208
+  size: 211, 108
+  orig: 211, 108
+  offset: 0, 0
+  index: -1
+men_guang
+  rotate: false
+  xy: 380, 2
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+men_kai1
+  rotate: false
+  xy: 428, 498
+  size: 11, 31
+  orig: 11, 31
+  offset: 0, 0
+  index: -1
+men_kai2
+  rotate: false
+  xy: 428, 465
+  size: 11, 31
+  orig: 11, 31
+  offset: 0, 0
+  index: -1
+yan1
+  rotate: true
+  xy: 305, 21
+  size: 75, 73
+  orig: 75, 73
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: false
+  xy: 380, 34
+  size: 54, 62
+  orig: 54, 62
+  offset: 0, 0
+  index: -1
+yan3
+  rotate: true
+  xy: 229, 15
+  size: 81, 74
+  orig: 81, 74
+  offset: 0, 0
+  index: -1
+yy
+  rotate: false
+  xy: 2, 12
+  size: 225, 84
+  orig: 225, 84
+  offset: 0, 0
+  index: -1

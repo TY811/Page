@@ -1,0 +1,111 @@
+
+nezha2.png
+size: 277,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aixin
+  rotate: false
+  xy: 141, 15
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+huolun1
+  rotate: true
+  xy: 71, 12
+  size: 21, 45
+  orig: 21, 45
+  offset: 0, 0
+  index: -1
+huolun2
+  rotate: true
+  xy: 71, 12
+  size: 21, 45
+  orig: 21, 45
+  offset: 0, 0
+  index: -1
+ren1jiao1
+  rotate: false
+  xy: 203, 45
+  size: 23, 38
+  orig: 23, 38
+  offset: 0, 0
+  index: -1
+ren1jiao2
+  rotate: true
+  xy: 228, 62
+  size: 21, 40
+  orig: 21, 40
+  offset: 0, 0
+  index: -1
+ren1kua
+  rotate: true
+  xy: 118, 2
+  size: 31, 21
+  orig: 31, 21
+  offset: 0, 0
+  index: -1
+ren2
+  rotate: true
+  xy: 71, 35
+  size: 52, 88
+  orig: 52, 88
+  offset: 0, 0
+  index: -1
+ren2daijishou1
+  rotate: true
+  xy: 228, 41
+  size: 19, 38
+  orig: 19, 38
+  offset: 0, 0
+  index: -1
+ren2daijishou2
+  rotate: false
+  xy: 203, 6
+  size: 23, 37
+  orig: 23, 37
+  offset: 0, 0
+  index: -1
+ren2kaixin
+  rotate: false
+  xy: 161, 2
+  size: 27, 12
+  orig: 27, 12
+  offset: 0, 0
+  index: -1
+ren2shou
+  rotate: true
+  xy: 228, 14
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+ren2wuqi
+  rotate: true
+  xy: 71, 89
+  size: 51, 133
+  orig: 51, 133
+  offset: 0, 0
+  index: -1
+ren2yifu
+  rotate: false
+  xy: 2, 11
+  size: 67, 129
+  orig: 67, 129
+  offset: 0, 0
+  index: -1
+si
+  rotate: false
+  xy: 206, 85
+  size: 69, 55
+  orig: 69, 55
+  offset: 0, 0
+  index: -1
+siguihun
+  rotate: false
+  xy: 161, 16
+  size: 40, 71
+  orig: 40, 71
+  offset: 0, 0
+  index: -1

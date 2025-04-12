@@ -1,0 +1,20 @@
+
+haigui.png
+size: 326,146
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+haigui
+  rotate: false
+  xy: 166, 8
+  size: 158, 136
+  orig: 158, 136
+  offset: 0, 0
+  index: -1
+yangqiping
+  rotate: false
+  xy: 2, 2
+  size: 162, 142
+  orig: 162, 142
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+zhuahen.png
+size: 1230,393
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dao1
+  rotate: true
+  xy: 911, 24
+  size: 367, 317
+  orig: 367, 317
+  offset: 0, 0
+  index: -1
+dao2
+  rotate: false
+  xy: 2, 2
+  size: 416, 389
+  orig: 416, 389
+  offset: 0, 0
+  index: -1
+dao3
+  rotate: false
+  xy: 420, 103
+  size: 489, 288
+  orig: 489, 288
+  offset: 0, 0
+  index: -1
+hei
+  rotate: false
+  xy: 420, 12
+  size: 96, 89
+  orig: 96, 89
+  offset: 0, 0
+  index: -1

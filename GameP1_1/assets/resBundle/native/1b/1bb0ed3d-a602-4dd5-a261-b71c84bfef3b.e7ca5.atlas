@@ -1,0 +1,48 @@
+
+chiyanquegongji2.png
+size: 912,230
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian4
+  rotate: true
+  xy: 754, 3
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+dian6
+  rotate: false
+  xy: 775, 2
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+dian7
+  rotate: false
+  xy: 796, 3
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+dian5
+  rotate: false
+  xy: 796, 3
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+ds2
+  rotate: false
+  xy: 2, 3
+  size: 750, 225
+  orig: 750, 225
+  offset: 0, 0
+  index: -1
+xingguang_xiao
+  rotate: true
+  xy: 754, 23
+  size: 205, 156
+  orig: 205, 156
+  offset: 0, 0
+  index: -1

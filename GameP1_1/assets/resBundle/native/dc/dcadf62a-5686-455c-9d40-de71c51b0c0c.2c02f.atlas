@@ -1,0 +1,20 @@
+
+huahen.png
+size: 1719,754
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hei
+  rotate: true
+  xy: 2, 2
+  size: 750, 1050
+  orig: 750, 1050
+  offset: 0, 0
+  index: -1
+huahen
+  rotate: false
+  xy: 1054, 48
+  size: 663, 704
+  orig: 663, 704
+  offset: 0, 0
+  index: -1

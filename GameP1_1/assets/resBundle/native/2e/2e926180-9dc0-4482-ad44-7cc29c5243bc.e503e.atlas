@@ -1,0 +1,167 @@
+
+long_tou_s.png
+size: 1584,248
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ce_meimao
+  rotate: true
+  xy: 1378, 6
+  size: 31, 59
+  orig: 31, 59
+  offset: 0, 0
+  index: -1
+ce_shetou
+  rotate: false
+  xy: 1493, 56
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+ce_tou1
+  rotate: true
+  xy: 1168, 93
+  size: 153, 137
+  orig: 153, 137
+  offset: 0, 0
+  index: -1
+ce_tou2
+  rotate: false
+  xy: 1378, 39
+  size: 113, 61
+  orig: 113, 61
+  offset: 0, 0
+  index: -1
+ce_yachi
+  rotate: true
+  xy: 407, 5
+  size: 16, 29
+  orig: 16, 29
+  offset: 0, 0
+  index: -1
+ce_yanjing
+  rotate: false
+  xy: 1530, 135
+  size: 49, 57
+  orig: 49, 57
+  offset: 0, 0
+  index: -1
+f06
+  rotate: false
+  xy: 1072, 3
+  size: 80, 66
+  orig: 80, 66
+  offset: 0, 0
+  index: -1
+f08
+  rotate: false
+  xy: 1154, 3
+  size: 80, 66
+  orig: 80, 66
+  offset: 0, 0
+  index: -1
+f09
+  rotate: true
+  xy: 1236, 11
+  size: 80, 66
+  orig: 80, 66
+  offset: 0, 0
+  index: -1
+ph1
+  rotate: false
+  xy: 1028, 71
+  size: 138, 175
+  orig: 138, 175
+  offset: 0, 0
+  index: -1
+ph2
+  rotate: false
+  xy: 859, 39
+  size: 167, 207
+  orig: 167, 207
+  offset: 0, 0
+  index: -1
+ph3
+  rotate: false
+  xy: 211, 14
+  size: 194, 232
+  orig: 194, 232
+  offset: 0, 0
+  index: -1
+ph4
+  rotate: false
+  xy: 2, 2
+  size: 207, 244
+  orig: 207, 244
+  offset: 0, 0
+  index: -1
+ph5
+  rotate: true
+  xy: 609, 31
+  size: 215, 248
+  orig: 215, 248
+  offset: 0, 0
+  index: -1
+ph7
+  rotate: true
+  xy: 407, 23
+  size: 223, 200
+  orig: 223, 200
+  offset: 0, 0
+  index: -1
+xiaguo1
+  rotate: true
+  xy: 967, 4
+  size: 33, 103
+  orig: 33, 103
+  offset: 0, 0
+  index: -1
+xiaoguo2
+  rotate: false
+  xy: 859, 3
+  size: 106, 34
+  orig: 106, 34
+  offset: 0, 0
+  index: -1
+xiaoguo3
+  rotate: true
+  xy: 1307, 102
+  size: 144, 91
+  orig: 144, 91
+  offset: 0, 0
+  index: -1
+xiaoguo4
+  rotate: true
+  xy: 1439, 8
+  size: 29, 122
+  orig: 29, 122
+  offset: 0, 0
+  index: -1
+zheng_shetou
+  rotate: true
+  xy: 609, 3
+  size: 26, 65
+  orig: 26, 65
+  offset: 0, 0
+  index: -1
+zheng_tou1
+  rotate: false
+  xy: 1400, 113
+  size: 128, 133
+  orig: 128, 133
+  offset: 0, 0
+  index: -1
+zheng_tou2
+  rotate: true
+  xy: 1304, 15
+  size: 76, 72
+  orig: 76, 72
+  offset: 0, 0
+  index: -1
+zhu
+  rotate: false
+  xy: 1530, 194
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1

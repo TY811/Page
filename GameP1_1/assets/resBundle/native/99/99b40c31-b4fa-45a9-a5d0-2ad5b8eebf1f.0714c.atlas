@@ -1,0 +1,41 @@
+
+paoche3.png
+size: 402,160
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+asda0001
+  rotate: false
+  xy: 2, 2
+  size: 205, 156
+  orig: 205, 156
+  offset: 0, 0
+  index: -1
+pao3_1
+  rotate: true
+  xy: 209, 14
+  size: 144, 46
+  orig: 144, 46
+  offset: 0, 0
+  index: -1
+pao3_2
+  rotate: true
+  xy: 257, 5
+  size: 100, 61
+  orig: 100, 61
+  offset: 0, 0
+  index: -1
+pao3_3
+  rotate: true
+  xy: 320, 12
+  size: 93, 80
+  orig: 93, 80
+  offset: 0, 0
+  index: -1
+pao3_4
+  rotate: false
+  xy: 257, 107
+  size: 127, 51
+  orig: 127, 51
+  offset: 0, 0
+  index: -1

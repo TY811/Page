@@ -1,0 +1,146 @@
+
+nezha4.png
+size: 650,110
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aixin
+  rotate: false
+  xy: 621, 19
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+huolun1
+  rotate: true
+  xy: 123, 21
+  size: 21, 45
+  orig: 21, 45
+  offset: 0, 0
+  index: -1
+huolun2
+  rotate: true
+  xy: 123, 21
+  size: 21, 45
+  orig: 21, 45
+  offset: 0, 0
+  index: -1
+ren2kaixin
+  rotate: false
+  xy: 621, 39
+  size: 27, 12
+  orig: 27, 12
+  offset: 0, 0
+  index: -1
+ren4
+  rotate: true
+  xy: 472, 55
+  size: 53, 95
+  orig: 53, 95
+  offset: 0, 0
+  index: -1
+ren4daijishou1
+  rotate: true
+  xy: 565, 27
+  size: 24, 54
+  orig: 24, 54
+  offset: 0, 0
+  index: -1
+ren4daijishou2
+  rotate: true
+  xy: 565, 3
+  size: 22, 51
+  orig: 22, 51
+  offset: 0, 0
+  index: -1
+ren4duandai1
+  rotate: false
+  xy: 173, 2
+  size: 80, 46
+  orig: 80, 46
+  offset: 0, 0
+  index: -1
+ren4duandai2
+  rotate: false
+  xy: 342, 33
+  size: 128, 75
+  orig: 128, 75
+  offset: 0, 0
+  index: -1
+ren4duandai3
+  rotate: false
+  xy: 472, 11
+  size: 91, 42
+  orig: 91, 42
+  offset: 0, 0
+  index: -1
+ren4pijian
+  rotate: false
+  xy: 123, 2
+  size: 39, 17
+  orig: 39, 17
+  offset: 0, 0
+  index: -1
+ren4shou
+  rotate: true
+  xy: 430, 7
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+ren4tui1
+  rotate: true
+  xy: 255, 2
+  size: 29, 88
+  orig: 29, 88
+  offset: 0, 0
+  index: -1
+ren4tui2
+  rotate: true
+  xy: 345, 2
+  size: 29, 83
+  orig: 29, 83
+  offset: 0, 0
+  index: -1
+ren4wuqi
+  rotate: true
+  xy: 2, 44
+  size: 64, 169
+  orig: 64, 169
+  offset: 0, 0
+  index: -1
+ren4wuqitou
+  rotate: true
+  xy: 173, 50
+  size: 58, 167
+  orig: 58, 167
+  offset: 0, 0
+  index: -1
+ren4xiaozui
+  rotate: true
+  xy: 164, 7
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+ren4yifu
+  rotate: true
+  xy: 75, 6
+  size: 36, 46
+  orig: 36, 46
+  offset: 0, 0
+  index: -1
+si
+  rotate: false
+  xy: 569, 53
+  size: 69, 55
+  orig: 69, 55
+  offset: 0, 0
+  index: -1
+siguihun
+  rotate: true
+  xy: 2, 2
+  size: 40, 71
+  orig: 40, 71
+  offset: 0, 0
+  index: -1

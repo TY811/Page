@@ -1,0 +1,111 @@
+
+shuihua.png
+size: 673,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+paopao1
+  rotate: false
+  xy: 644, 84
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+paopao2
+  rotate: false
+  xy: 644, 96
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+paopao3
+  rotate: false
+  xy: 644, 113
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+water_17_00001
+  rotate: true
+  xy: 2, 72
+  size: 68, 105
+  orig: 68, 105
+  offset: 0, 0
+  index: -1
+water_17_00002
+  rotate: true
+  xy: 109, 72
+  size: 68, 105
+  orig: 68, 105
+  offset: 0, 0
+  index: -1
+water_17_00003
+  rotate: true
+  xy: 216, 72
+  size: 68, 105
+  orig: 68, 105
+  offset: 0, 0
+  index: -1
+water_17_00004
+  rotate: true
+  xy: 323, 72
+  size: 68, 105
+  orig: 68, 105
+  offset: 0, 0
+  index: -1
+water_17_00005
+  rotate: true
+  xy: 430, 72
+  size: 68, 105
+  orig: 68, 105
+  offset: 0, 0
+  index: -1
+water_17_00006
+  rotate: true
+  xy: 537, 72
+  size: 68, 105
+  orig: 68, 105
+  offset: 0, 0
+  index: -1
+water_17_00007
+  rotate: true
+  xy: 2, 2
+  size: 68, 105
+  orig: 68, 105
+  offset: 0, 0
+  index: -1
+water_17_00008
+  rotate: true
+  xy: 109, 2
+  size: 68, 105
+  orig: 68, 105
+  offset: 0, 0
+  index: -1
+water_17_00009
+  rotate: true
+  xy: 216, 2
+  size: 68, 105
+  orig: 68, 105
+  offset: 0, 0
+  index: -1
+water_17_00010
+  rotate: true
+  xy: 323, 2
+  size: 68, 105
+  orig: 68, 105
+  offset: 0, 0
+  index: -1
+water_17_00011
+  rotate: true
+  xy: 430, 2
+  size: 68, 105
+  orig: 68, 105
+  offset: 0, 0
+  index: -1
+water_17_00012
+  rotate: true
+  xy: 537, 2
+  size: 68, 105
+  orig: 68, 105
+  offset: 0, 0
+  index: -1

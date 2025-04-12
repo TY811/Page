@@ -1,0 +1,20 @@
+
+paotai_dapao.png
+size: 214,92
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pao4
+  rotate: true
+  xy: 2, 2
+  size: 88, 125
+  orig: 88, 125
+  offset: 0, 0
+  index: -1
+shoujitexiao
+  rotate: false
+  xy: 129, 11
+  size: 83, 79
+  orig: 83, 79
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+beizi.png
+size: 67,53
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shui2
+  rotate: false
+  xy: 50, 2
+  size: 15, 49
+  orig: 15, 49
+  offset: 0, 0
+  index: -1
+shuibeikong
+  rotate: false
+  xy: 2, 7
+  size: 22, 44
+  orig: 22, 44
+  offset: 0, 0
+  index: -1
+shuibeiman
+  rotate: false
+  xy: 26, 7
+  size: 22, 44
+  orig: 22, 44
+  offset: 0, 0
+  index: -1

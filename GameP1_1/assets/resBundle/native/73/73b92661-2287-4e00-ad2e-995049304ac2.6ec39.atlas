@@ -1,0 +1,27 @@
+
+chuansongdai.png
+size: 1142,139
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lizi
+  rotate: false
+  xy: 656, 2
+  size: 484, 135
+  orig: 484, 135
+  offset: 0, 0
+  index: -1
+xian1
+  rotate: false
+  xy: 2, 67
+  size: 652, 70
+  orig: 652, 70
+  offset: 0, 0
+  index: -1
+xian2
+  rotate: false
+  xy: 2, 9
+  size: 652, 56
+  orig: 652, 56
+  offset: 0, 0
+  index: -1

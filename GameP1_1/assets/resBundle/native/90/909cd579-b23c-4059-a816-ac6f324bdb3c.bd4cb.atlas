@@ -1,0 +1,55 @@
+
+kaichang.png
+size: 1876,192
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fazan
+  rotate: true
+  xy: 1818, 19
+  size: 87, 56
+  orig: 87, 56
+  offset: 0, 0
+  index: -1
+nv1
+  rotate: true
+  xy: 697, 4
+  size: 186, 647
+  orig: 186, 647
+  offset: 0, 0
+  index: -1
+nv2
+  rotate: true
+  xy: 2, 2
+  size: 188, 693
+  orig: 188, 693
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: true
+  xy: 1651, 108
+  size: 82, 208
+  orig: 82, 208
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: false
+  xy: 1346, 56
+  size: 198, 134
+  orig: 198, 134
+  offset: 0, 0
+  index: -1
+shuihua
+  rotate: true
+  xy: 1546, 15
+  size: 175, 103
+  orig: 175, 103
+  offset: 0, 0
+  index: -1
+yy
+  rotate: false
+  xy: 1651, 51
+  size: 165, 55
+  orig: 165, 55
+  offset: 0, 0
+  index: -1

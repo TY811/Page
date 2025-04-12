@@ -1,0 +1,90 @@
+
+kapi_da.png
+size: 1140,424
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kapi_honglinjin
+  rotate: true
+  xy: 433, 137
+  size: 285, 226
+  orig: 285, 226
+  offset: 0, 0
+  index: -1
+kapi_jian
+  rotate: false
+  xy: 913, 208
+  size: 214, 214
+  orig: 214, 214
+  offset: 0, 0
+  index: -1
+kapi_jiantao
+  rotate: false
+  xy: 1008, 139
+  size: 78, 67
+  orig: 78, 67
+  offset: 0, 0
+  index: -1
+kapi_jiao
+  rotate: false
+  xy: 679, 5
+  size: 95, 177
+  orig: 95, 177
+  offset: 0, 0
+  index: -1
+kapi_jiao2
+  rotate: false
+  xy: 661, 184
+  size: 102, 238
+  orig: 102, 238
+  offset: 0, 0
+  index: -1
+kapi_pifeng
+  rotate: true
+  xy: 765, 186
+  size: 236, 146
+  orig: 236, 146
+  offset: 0, 0
+  index: -1
+kapi_saihong
+  rotate: false
+  xy: 1088, 172
+  size: 48, 34
+  orig: 48, 34
+  offset: 0, 0
+  index: -1
+kapi_shenti
+  rotate: false
+  xy: 2, 2
+  size: 429, 420
+  orig: 429, 420
+  offset: 0, 0
+  index: -1
+kapi_tui
+  rotate: false
+  xy: 776, 21
+  size: 230, 163
+  orig: 230, 163
+  offset: 0, 0
+  index: -1
+kapi_yaodai
+  rotate: false
+  xy: 433, 10
+  size: 244, 125
+  orig: 244, 125
+  offset: 0, 0
+  index: -1
+kapi_youer
+  rotate: true
+  xy: 1075, 76
+  size: 61, 63
+  orig: 61, 63
+  offset: 0, 0
+  index: -1
+kapi_zuoer
+  rotate: true
+  xy: 1008, 75
+  size: 62, 65
+  orig: 62, 65
+  offset: 0, 0
+  index: -1

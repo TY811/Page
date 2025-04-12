@@ -1,0 +1,20 @@
+
+texiao.png
+size: 1506,1054
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hong
+  rotate: false
+  xy: 2, 2
+  size: 750, 1050
+  orig: 750, 1050
+  offset: 0, 0
+  index: -1
+suduxian
+  rotate: false
+  xy: 754, 2
+  size: 750, 1050
+  orig: 750, 1050
+  offset: 0, 0
+  index: -1

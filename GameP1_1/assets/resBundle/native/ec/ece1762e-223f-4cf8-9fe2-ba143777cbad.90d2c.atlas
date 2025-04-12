@@ -1,0 +1,55 @@
+
+shifa.png
+size: 797,336
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian_q3
+  rotate: false
+  xy: 718, 114
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+energy_l3
+  rotate: false
+  xy: 2, 2
+  size: 356, 332
+  orig: 356, 332
+  offset: 0, 0
+  index: -1
+energy_l4
+  rotate: false
+  xy: 360, 2
+  size: 356, 332
+  orig: 356, 332
+  offset: 0, 0
+  index: -1
+leiming_0001
+  rotate: false
+  xy: 718, 17
+  size: 65, 35
+  orig: 65, 35
+  offset: 0, 0
+  index: -1
+leiming_0002
+  rotate: true
+  xy: 718, 190
+  size: 96, 65
+  orig: 96, 65
+  offset: 0, 0
+  index: -1
+leiming_0003
+  rotate: false
+  xy: 718, 54
+  size: 49, 58
+  orig: 49, 58
+  offset: 0, 0
+  index: -1
+leiming_0005
+  rotate: false
+  xy: 718, 288
+  size: 77, 46
+  orig: 77, 46
+  offset: 0, 0
+  index: -1

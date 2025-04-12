@@ -1,0 +1,34 @@
+
+qingning.png
+size: 1243,638
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sui1_qingning
+  rotate: false
+  xy: 715, 2
+  size: 316, 261
+  orig: 316, 261
+  offset: 0, 0
+  index: -1
+sui2_qingning
+  rotate: false
+  xy: 1051, 309
+  size: 190, 327
+  orig: 190, 327
+  offset: 0, 0
+  index: -1
+sui3_qingning
+  rotate: false
+  xy: 715, 265
+  size: 334, 371
+  orig: 334, 371
+  offset: 0, 0
+  index: -1
+zhi_qingning
+  rotate: false
+  xy: 2, 17
+  size: 711, 619
+  orig: 711, 619
+  offset: 0, 0
+  index: -1

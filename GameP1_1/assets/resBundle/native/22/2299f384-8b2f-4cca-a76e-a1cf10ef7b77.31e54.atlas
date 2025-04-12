@@ -1,0 +1,62 @@
+
+taozi.png
+size: 1162,623
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sui1_taozi
+  rotate: true
+  xy: 715, 207
+  size: 210, 214
+  orig: 210, 214
+  offset: 0, 0
+  index: -1
+sui2_taozi
+  rotate: true
+  xy: 931, 202
+  size: 167, 215
+  orig: 167, 215
+  offset: 0, 0
+  index: -1
+sui3_taozi
+  rotate: true
+  xy: 1018, 371
+  size: 250, 142
+  orig: 250, 142
+  offset: 0, 0
+  index: -1
+sui4_taozi
+  rotate: false
+  xy: 895, 58
+  size: 250, 142
+  orig: 250, 142
+  offset: 0, 0
+  index: -1
+sui5_taozi
+  rotate: true
+  xy: 715, 14
+  size: 191, 178
+  orig: 191, 178
+  offset: 0, 0
+  index: -1
+sui6_taozi
+  rotate: true
+  xy: 715, 14
+  size: 191, 178
+  orig: 191, 178
+  offset: 0, 0
+  index: -1
+sui7_taozi
+  rotate: true
+  xy: 715, 419
+  size: 202, 301
+  orig: 202, 301
+  offset: 0, 0
+  index: -1
+zhi_taozi
+  rotate: false
+  xy: 2, 2
+  size: 711, 619
+  orig: 711, 619
+  offset: 0, 0
+  index: -1

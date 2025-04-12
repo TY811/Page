@@ -1,0 +1,153 @@
+
+yuchi1.png
+size: 1110,665
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+paopao1
+  rotate: false
+  xy: 1030, 378
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+paopao4
+  rotate: false
+  xy: 1030, 378
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+paopao7
+  rotate: false
+  xy: 1030, 378
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+paopao10
+  rotate: false
+  xy: 1030, 390
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+paopao11
+  rotate: false
+  xy: 1030, 426
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+paopao12
+  rotate: false
+  xy: 1030, 547
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+paopao13
+  rotate: false
+  xy: 1093, 551
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+paopao14
+  rotate: false
+  xy: 1030, 405
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+paopao15
+  rotate: false
+  xy: 1030, 511
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+paopao2
+  rotate: false
+  xy: 1093, 566
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+paopao5
+  rotate: false
+  xy: 1093, 566
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+paopao8
+  rotate: false
+  xy: 1093, 566
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+paopao3
+  rotate: false
+  xy: 1030, 482
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+paopao6
+  rotate: false
+  xy: 1030, 482
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+paopao9
+  rotate: false
+  xy: 1030, 482
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+shuihua2
+  rotate: true
+  xy: 1066, 515
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+shuihua3
+  rotate: true
+  xy: 1066, 548
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+shuishang
+  rotate: false
+  xy: 2, 2
+  size: 1026, 661
+  orig: 1026, 661
+  offset: 0, 0
+  index: -1
+shuizhong
+  rotate: false
+  xy: 2, 2
+  size: 1026, 661
+  orig: 1026, 661
+  offset: 0, 0
+  index: -1
+yushang
+  rotate: false
+  xy: 1030, 583
+  size: 68, 80
+  orig: 68, 80
+  offset: 0, 0
+  index: -1
+yuxia
+  rotate: false
+  xy: 1030, 447
+  size: 19, 33
+  orig: 19, 33
+  offset: 0, 0
+  index: -1

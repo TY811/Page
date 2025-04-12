@@ -1,0 +1,62 @@
+
+mugua.png
+size: 1049,623
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sui1_mugua
+  rotate: true
+  xy: 892, 436
+  size: 185, 155
+  orig: 185, 155
+  offset: 0, 0
+  index: -1
+sui2_mugua
+  rotate: true
+  xy: 715, 256
+  size: 185, 155
+  orig: 185, 155
+  offset: 0, 0
+  index: -1
+sui3_mugua
+  rotate: false
+  xy: 715, 443
+  size: 175, 178
+  orig: 175, 178
+  offset: 0, 0
+  index: -1
+sui4_mugua
+  rotate: false
+  xy: 715, 443
+  size: 175, 178
+  orig: 175, 178
+  offset: 0, 0
+  index: -1
+sui5_mugua
+  rotate: false
+  xy: 872, 310
+  size: 153, 124
+  orig: 153, 124
+  offset: 0, 0
+  index: -1
+sui6_mugua
+  rotate: false
+  xy: 879, 162
+  size: 115, 146
+  orig: 115, 146
+  offset: 0, 0
+  index: -1
+sui7_mugua
+  rotate: false
+  xy: 715, 82
+  size: 162, 172
+  orig: 162, 172
+  offset: 0, 0
+  index: -1
+zhi_mugua
+  rotate: false
+  xy: 2, 2
+  size: 711, 619
+  orig: 711, 619
+  offset: 0, 0
+  index: -1

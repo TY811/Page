@@ -1,0 +1,27 @@
+
+qinglinghu.png
+size: 233,98
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huli
+  rotate: false
+  xy: 165, 24
+  size: 66, 72
+  orig: 66, 72
+  offset: 0, 0
+  index: -1
+huli2
+  rotate: true
+  xy: 89, 14
+  size: 82, 74
+  orig: 82, 74
+  offset: 0, 0
+  index: -1
+huliguang
+  rotate: true
+  xy: 2, 2
+  size: 94, 85
+  orig: 94, 85
+  offset: 0, 0
+  index: -1

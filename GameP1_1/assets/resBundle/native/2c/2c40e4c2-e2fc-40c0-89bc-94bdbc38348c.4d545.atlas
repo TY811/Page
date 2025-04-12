@@ -1,0 +1,48 @@
+
+jiebing.png
+size: 172,305
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bingkuai
+  rotate: true
+  xy: 2, 138
+  size: 74, 168
+  orig: 74, 168
+  offset: 0, 0
+  index: -1
+sui1
+  rotate: false
+  xy: 112, 2
+  size: 33, 82
+  orig: 33, 82
+  offset: 0, 0
+  index: -1
+sui2
+  rotate: true
+  xy: 2, 214
+  size: 89, 142
+  orig: 89, 142
+  offset: 0, 0
+  index: -1
+sui3
+  rotate: false
+  xy: 2, 4
+  size: 48, 132
+  orig: 48, 132
+  offset: 0, 0
+  index: -1
+sui4
+  rotate: true
+  xy: 52, 86
+  size: 50, 113
+  orig: 50, 113
+  offset: 0, 0
+  index: -1
+sui5
+  rotate: true
+  xy: 52, 15
+  size: 69, 58
+  orig: 69, 58
+  offset: 0, 0
+  index: -1

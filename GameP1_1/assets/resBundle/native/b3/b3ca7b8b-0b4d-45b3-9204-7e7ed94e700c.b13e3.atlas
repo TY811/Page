@@ -1,0 +1,55 @@
+
+chiyanque_shifa.png
+size: 1409,679
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+niaochi11
+  rotate: true
+  xy: 735, 311
+  size: 203, 344
+  orig: 203, 344
+  offset: 0, 0
+  index: -1
+niaochi2
+  rotate: false
+  xy: 735, 6
+  size: 220, 303
+  orig: 220, 303
+  offset: 0, 0
+  index: -1
+niaoguang
+  rotate: true
+  xy: 2, 2
+  size: 675, 731
+  orig: 675, 731
+  offset: 0, 0
+  index: -1
+niaoshen
+  rotate: false
+  xy: 1185, 142
+  size: 214, 276
+  orig: 214, 276
+  offset: 0, 0
+  index: -1
+niaotou
+  rotate: true
+  xy: 1116, 420
+  size: 257, 291
+  orig: 257, 291
+  offset: 0, 0
+  index: -1
+niaowei
+  rotate: true
+  xy: 957, 31
+  size: 278, 226
+  orig: 278, 226
+  offset: 0, 0
+  index: -1
+niaowei2
+  rotate: false
+  xy: 735, 516
+  size: 379, 161
+  orig: 379, 161
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+jiguang.png
+size: 206,886
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiguang1
+  rotate: false
+  xy: 2, 2
+  size: 71, 882
+  orig: 71, 882
+  offset: 0, 0
+  index: -1
+jiguang2
+  rotate: false
+  xy: 75, 2
+  size: 69, 882
+  orig: 69, 882
+  offset: 0, 0
+  index: -1
+jiguang3
+  rotate: false
+  xy: 146, 2
+  size: 58, 882
+  orig: 58, 882
+  offset: 0, 0
+  index: -1

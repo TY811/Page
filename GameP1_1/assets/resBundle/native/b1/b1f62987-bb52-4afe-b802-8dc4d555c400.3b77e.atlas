@@ -1,0 +1,34 @@
+
+kapi.png
+size: 255,95
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kapi
+  rotate: true
+  xy: 184, 17
+  size: 76, 69
+  orig: 76, 69
+  offset: 0, 0
+  index: -1
+kapi2
+  rotate: false
+  xy: 101, 23
+  size: 81, 70
+  orig: 81, 70
+  offset: 0, 0
+  index: -1
+kapiguang
+  rotate: false
+  xy: 2, 10
+  size: 97, 83
+  orig: 97, 83
+  offset: 0, 0
+  index: -1
+kapiyanjing
+  rotate: false
+  xy: 101, 2
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1

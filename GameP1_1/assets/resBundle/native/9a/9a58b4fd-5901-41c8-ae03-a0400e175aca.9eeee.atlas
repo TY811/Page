@@ -1,0 +1,76 @@
+
+huairen.png
+size: 745,1038
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cemian
+  rotate: false
+  xy: 2, 197
+  size: 323, 448
+  orig: 323, 448
+  offset: 0, 0
+  index: -1
+haipa
+  rotate: true
+  xy: 555, 837
+  size: 199, 156
+  orig: 199, 156
+  offset: 0, 0
+  index: -1
+jiao1
+  rotate: true
+  xy: 327, 78
+  size: 281, 406
+  orig: 281, 406
+  offset: 0, 0
+  index: -1
+jiao2
+  rotate: true
+  xy: 327, 361
+  size: 284, 416
+  orig: 284, 416
+  offset: 0, 0
+  index: -1
+maojing
+  rotate: true
+  xy: 2, 2
+  size: 193, 210
+  orig: 193, 210
+  offset: 0, 0
+  index: -1
+shenzi1
+  rotate: false
+  xy: 555, 703
+  size: 185, 132
+  orig: 185, 132
+  offset: 0, 0
+  index: -1
+shenzi2
+  rotate: false
+  xy: 555, 703
+  size: 185, 132
+  orig: 185, 132
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: true
+  xy: 555, 654
+  size: 47, 66
+  orig: 47, 66
+  offset: 0, 0
+  index: -1
+shouna
+  rotate: false
+  xy: 623, 660
+  size: 59, 41
+  orig: 59, 41
+  offset: 0, 0
+  index: -1
+zhengmian
+  rotate: true
+  xy: 2, 647
+  size: 389, 551
+  orig: 389, 551
+  offset: 0, 0
+  index: -1

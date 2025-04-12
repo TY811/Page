@@ -1,0 +1,55 @@
+
+fanshiliu.png
+size: 1015,715
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sui1_fanshiliu
+  rotate: true
+  xy: 828, 3
+  size: 120, 142
+  orig: 120, 142
+  offset: 0, 0
+  index: -1
+sui2_fanshiliu
+  rotate: false
+  xy: 623, 439
+  size: 322, 274
+  orig: 322, 274
+  offset: 0, 0
+  index: -1
+sui3_fanshiliu
+  rotate: false
+  xy: 828, 125
+  size: 168, 125
+  orig: 168, 125
+  offset: 0, 0
+  index: -1
+sui4_fanshiliu
+  rotate: true
+  xy: 623, 62
+  size: 199, 203
+  orig: 199, 203
+  offset: 0, 0
+  index: -1
+sui5_fanshiliu
+  rotate: true
+  xy: 838, 252
+  size: 185, 175
+  orig: 185, 175
+  offset: 0, 0
+  index: -1
+sui6_fanshiliu
+  rotate: false
+  xy: 623, 263
+  size: 213, 174
+  orig: 213, 174
+  offset: 0, 0
+  index: -1
+zhi_fanshiliu
+  rotate: true
+  xy: 2, 2
+  size: 711, 619
+  orig: 711, 619
+  offset: 0, 0
+  index: -1

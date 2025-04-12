@@ -1,0 +1,160 @@
+
+nezha5.png
+size: 505,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aixin
+  rotate: false
+  xy: 79, 4
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+huolun1
+  rotate: false
+  xy: 134, 2
+  size: 21, 45
+  orig: 21, 45
+  offset: 0, 0
+  index: -1
+huolun2
+  rotate: false
+  xy: 134, 2
+  size: 21, 45
+  orig: 21, 45
+  offset: 0, 0
+  index: -1
+ren5
+  rotate: false
+  xy: 79, 24
+  size: 53, 116
+  orig: 53, 116
+  offset: 0, 0
+  index: -1
+ren5daijishou1
+  rotate: false
+  xy: 452, 3
+  size: 24, 54
+  orig: 24, 54
+  offset: 0, 0
+  index: -1
+ren5daijishou2
+  rotate: false
+  xy: 157, 3
+  size: 40, 44
+  orig: 40, 44
+  offset: 0, 0
+  index: -1
+ren5daijishou3
+  rotate: true
+  xy: 452, 118
+  size: 22, 51
+  orig: 22, 51
+  offset: 0, 0
+  index: -1
+ren5daijishou4
+  rotate: true
+  xy: 378, 98
+  size: 42, 38
+  orig: 42, 38
+  offset: 0, 0
+  index: -1
+ren5daijishou5
+  rotate: false
+  xy: 418, 108
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+ren5daijishou6
+  rotate: false
+  xy: 452, 59
+  size: 49, 57
+  orig: 49, 57
+  offset: 0, 0
+  index: -1
+ren5duandai1
+  rotate: false
+  xy: 199, 4
+  size: 80, 46
+  orig: 80, 46
+  offset: 0, 0
+  index: -1
+ren5duandai2
+  rotate: true
+  xy: 2, 12
+  size: 128, 75
+  orig: 128, 75
+  offset: 0, 0
+  index: -1
+ren5duandai3
+  rotate: true
+  xy: 134, 49
+  size: 91, 42
+  orig: 91, 42
+  offset: 0, 0
+  index: -1
+ren5quan
+  rotate: false
+  xy: 418, 77
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+ren5shou
+  rotate: false
+  xy: 478, 27
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+ren5tui1
+  rotate: false
+  xy: 178, 52
+  size: 29, 88
+  orig: 29, 88
+  offset: 0, 0
+  index: -1
+ren5tui2
+  rotate: false
+  xy: 249, 58
+  size: 28, 82
+  orig: 28, 82
+  offset: 0, 0
+  index: -1
+ren5wuqi
+  rotate: true
+  xy: 281, 3
+  size: 64, 169
+  orig: 64, 169
+  offset: 0, 0
+  index: -1
+ren5wuqitou
+  rotate: false
+  xy: 209, 58
+  size: 38, 82
+  orig: 38, 82
+  offset: 0, 0
+  index: -1
+ren5xiaozui
+  rotate: false
+  xy: 2, 3
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+si
+  rotate: true
+  xy: 321, 71
+  size: 69, 55
+  orig: 69, 55
+  offset: 0, 0
+  index: -1
+siguihun
+  rotate: false
+  xy: 279, 69
+  size: 40, 71
+  orig: 40, 71
+  offset: 0, 0
+  index: -1
